@@ -19,6 +19,7 @@ Task async baru benar-benar dijalankan saat executor.run() dipanggil. Karena itu
 ## Experiment 1.3 - Multiple Spawn and Removing Drop
 
 ![alt text](commit3.png)
+![alt text](commit3-remove_drop.png)
 
 Di experiment ini aku coba nambah beberapa `spawn()` supaya ada beberapa async task yang jalan bareng.
 
